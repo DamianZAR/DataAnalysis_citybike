@@ -20,10 +20,15 @@ En cada cuaderno se puede consultar el detalle de lo hecho en cada paso.
 
 ### Modelo de datos
 
-///IMAGEN
+![Modelo_de_datos](https://raw.githubusercontent.com/DamianZAR/Urbvan_citybike/main/code/images/Modelo_datos.jpg)
 
-<br> El modelo fue cargado en **Bigquery** de Google Cloud Platform, por su reducido consumo de recursos locales y por la familiaridad que tengo.
-<br> Se generó una consulta para conocer las estaciones más populares y las menos populares. La consulta está en el archivo ConsultaBigQuery.sql
+<br> El modelo fue cargado en **Bigquery** de Google Cloud Platform, por su reducido consumo de recursos locales y por la familiaridad que tengo en su uso.
+<br> Se generó una consulta para conocer las estaciones más populares y las menos populares. La consulta está en el archivo *ConsultaBigQuery.sql*.
 <br> Se hizo una matriz de confusión para identificar rutas más frecuentes entre los usuarios. 
+<br> La exposición y discusión de los resultados está en el archivo *DamianZamora_Urbvan.pdf*.
+
+## ¿Qué encontré en los datos?
+* 
+
 
 **Enlace al tablero**: https://tinyurl.com/2m7ypvu6 
