@@ -38,4 +38,3 @@ En cada cuaderno se puede consultar el detalle de lo hecho en cada paso.
 
 **Enlace al tablero**: https://tinyurl.com/2m7ypvu6 
 
-![Vista_tablero](https://raw.githubusercontent.com/DamianZAR/Urbvan_citybike/main/code/images/Vista_Tablero.JPG)
