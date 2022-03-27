@@ -37,4 +37,4 @@ En cada cuaderno se puede consultar el detalle de lo hecho en cada paso.
 <br> **La exposición y discusión de los resultados está en el archivo *DamianZamora_Urbvan.pdf*.**
 
 **Enlace al tablero**: https://tinyurl.com/2m7ypvu6 
-[!Tablero_de_datos_CityBike](https://raw.githubusercontent.com/DamianZAR/Urbvan_citybike/main/code/images/Vista_Tablero.JPG)
+![Tablero_de_datos_CityBike](https://raw.githubusercontent.com/DamianZAR/Urbvan_citybike/main/code/images/Vista_Tablero.JPG)
