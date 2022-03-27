@@ -1,0 +1,112 @@
+station_id,name,longitude,latitude
+1,Newport Pkwy,-74.032,40.729
+2,Manila & 1st,-74.043,40.722
+3,City Hall,-74.044,40.718
+4,Communipaw & Berry Lane,-74.067,40.714
+5,Liberty Light Rail,-74.056,40.711
+6,Newport PATH,-74.034,40.727
+7,Dey St,-74.067,40.738
+8,Warren St,-74.038,40.721
+9,Hamilton Park,-74.044,40.728
+10,Van Vorst Park,-74.048,40.718
+11,Washington St,-74.035,40.724
+12,Lafayette Park,-74.063,40.713
+13,Harborside,-74.034,40.719
+14,Grand St,-74.038,40.715
+15,Baldwin at Montgomery,-74.064,40.724
+16,Columbus Drive,-74.039,40.718
+17,Marin Light Rail,-74.043,40.715
+18,Jersey & 6th St,-74.046,40.725
+19,York St,-74.041,40.716
+20,Newark Ave,-74.046,40.722
+21,Oakland Ave,-74.052,40.738
+22,Monmouth and 6th,-74.049,40.726
+23,Fairmount Ave,-74.072,40.726
+24,McGinley Square,-74.068,40.725
+25,Grove St PATH,-74.043,40.72
+26,Lincoln Park,-74.078,40.725
+27,Brunswick St,-74.051,40.724
+28,Sip Ave,-74.064,40.731
+29,Brunswick & 6th,-74.05,40.726
+30,JC Medical Center,-74.05,40.717
+31,Columbus Dr at Exchange Pl,-74.033,40.717
+32,Riverview Park,-74.044,40.744
+33,Christ Hospital,-74.05,40.735
+34,Pershing Field,-74.052,40.743
+35,Union St,-74.084,40.718
+36,Astor Place,-74.071,40.719
+37,Jersey & 3rd,-74.046,40.723
+38,Dixon Mills,-74.05,40.722
+39,Bergen Ave,-74.071,40.722
+40,Essex Light Rail,-74.036,40.713
+41,Paulus Hook,-74.034,40.714
+42,Leonard Gordon Park,-74.057,40.746
+43,Montgomery St,-74.051,40.719
+44,Heights Elevator,-74.04,40.749
+45,5 Corners Library,-74.06,40.735
+46,Morris Canal,-74.039,40.712
+47,Hoboken Ave at Monmouth St,-74.047,40.735
+48,Hilltop,-74.058,40.731
+49,Journal Square,-74.062,40.734
+50,Jackson Square,-74.079,40.711
+51,JCBS Depot,-74.069,40.71
+52,Glenwood Ave,-74.071,40.728
+53,Pier 40 - Hudson River Park,-74.011,40.728
+54,Atlantic Ave & Fort Greene Pl,-73.976,40.684
+55,South St & Gouverneur Ln,-74.007,40.704
+56,Pier 40 Dock Station,-74.012,40.729
+57,Bloomfield St & 15 St,-74.027,40.755
+58,Pershing Square North,-73.978,40.752
+59,Cleveland Pl & Spring St,-73.997,40.722
+60,Church Sq Park - 5 St & Park Ave,-74.032,40.743
+61,Columbus Park - Clinton St & 9 St,-74.032,40.748
+62,Clinton St & Newark St,-74.036,40.737
+63,Adams St & 2 St,-74.037,40.74
+64,South Waterfront Walkway - Sinatra Dr & 1 St,-74.028,40.737
+65,Hudson St & 4 St,-74.029,40.741
+66,7 St & Monroe St,-74.038,40.746
+67,City Hall - Washington St & 1 St,-74.031,40.737
+68,Adams St & 11 St,-74.034,40.751
+69,Willow Ave & 12 St,-74.03,40.752
+70,6 St & Grand St,-74.035,40.744
+71,Bergen Ave & Stegman St,-74.087,40.707
+72,11 St & Washington St,-74.027,40.75
+73,8 St & Washington St,-74.028,40.746
+74,Madison St & 10 St,-74.036,40.75
+75,Grand St & 14 St,-74.032,40.754
+76,Mama Johnson Field - 4 St & Jackson St,-74.04,40.743
+77,Hoboken Terminal - Hudson St & Hudson Pl,-74.03,40.736
+78,4 St & Grand St,-74.035,40.742
+79,12 St & Sinatra Dr N,-74.024,40.751
+80,Clinton St & 7 St,-74.033,40.745
+81,Marshall St & 2 St,-74.043,40.741
+82,9 St HBLR - Jackson St & 8 St,-74.038,40.748
+83,Hoboken Terminal - River St & Hudson Pl,-74.029,40.736
+84,14 St Ferry - 14 St & Shipyard Ln,-74.024,40.753
+85,Madison St & 1 St,-74.039,40.739
+86,Southwest Park - Jackson St & Observer Hwy,-74.042,40.738
+87,Stevens - River Ter & 6 St,-74.027,40.743
+88,Broadway & Battery Pl,-74.014,40.705
+89,Great Jones St,-73.994,40.727
+90,Riverside Dr & W 104 St,-73.971,40.801
+91,Grant Ave & MLK Dr,-74.081,40.709
+92,Bank St & Washington St,-74.009,40.736
+93,Old Slip & South St,-74.008,40.703
+94,Bayard St & Baxter St,-74.0,40.716
+95,6 Ave & W 34 St,-73.988,40.75
+96,Liberty St & Nassau St,-74.009,40.709
+97,Water St & Gouverneur Ln,-74.008,40.705
+98,West St & Chambers St,-74.013,40.718
+99,West Thames St,-74.017,40.708
+100,Vesey St & Church St,-74.01,40.712
+101,8 Ave & W 33 St,-73.994,40.752
+102,Broadway & Morris St,-74.013,40.706
+103,Park Pl & Church St,-74.009,40.713
+104,11 Ave & W 59 St,-73.99,40.771
+105,W 37 St & Broadway,-73.988,40.752
+106,Cedar Ave & W Fordham Rd,-73.912,40.862
+107,E 5 St & Cooper Sq,-73.991,40.728
+108,North Moore St & Greenwich St,-74.01,40.72
+109,Broadway & W 155 St,-73.946,40.833
+110,Murray St & Greenwich St,-74.011,40.715
+111,6 Ave & Walker St,-74.005,40.72
