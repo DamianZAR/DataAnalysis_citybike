@@ -3,9 +3,10 @@
 **Objetivo**: Obtener un tablero que permita consultar cuestiones sobre el comportamiento de los usuarios para su análisis.
 
 ## Breve descripción de lo hecho en cada cuaderno de python. 
-### La paquetería obligada a utilizar en todos los cuadernos es pandas. 
-### En el cuaderno 2 se utilizan además math, datetime y calendar. 
-### En el cuaderno 4 además se utilizan matplotlib y seaborn.
+<br>**La paquetería obligada a utilizar en todos los cuadernos es pandas. 
+<br>En el cuaderno 2 se utilizan además math, datetime y calendar. 
+<br>En el cuaderno 4 además se utilizan matplotlib y seaborn.**
+
 1. *01_Exploracion*
    <br> De acuerdo al objetivo y a lo que se quiere mostrar en los resultados, se hace una inspección del tipo de dato de cada columna. Se identifica qué representa cada variable y cómo se relacionan entre sí, para definir qué tablas pueden construirse en el modelo de datos.
 2. *02_Transformación*
@@ -22,6 +23,7 @@ En cada cuaderno se puede consultar el detalle de lo hecho en cada paso.
 ///IMAGEN
 
 <br> El modelo fue cargado en **Bigquery** de Google Cloud Platform, por su reducido consumo de recursos locales y por la familiaridad que tengo.
-
+<br> Se generó una consulta para conocer las estaciones más populares y las menos populares. La consulta está en el archivo ConsultaBigQuery.sql
+<br> Se hizo una matriz de confusión para identificar rutas más frecuentes entre los usuarios. 
 
 **Enlace al tablero**: https://tinyurl.com/2m7ypvu6 
